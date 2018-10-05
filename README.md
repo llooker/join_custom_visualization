@@ -1,5 +1,7 @@
 # Hands on Lab: Custom Visualizations
-Custom Visualization examples for the JOIN 2018 hands on lab
+Custom Visualization examples for the JOIN 2018 hands on lab. You can get here with the short URL http://bit.ly/joincv
+
+The full custom visualization repository is located here: https://github.com/looker/custom_visualizations_v2
 
 ## Visualization link
 https://rawgit.com/llooker/join_custom_visualization/master/transpose.js
