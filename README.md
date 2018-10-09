@@ -8,7 +8,7 @@ The full custom visualization repository is located here: https://github.com/loo
 https://joinlab.looker.com
 
 ## Visualization link
-https://rawcdn.githack.com/llooker/join_custom_visualization/master/transpose.js
+https://raw.githack.com/llooker/join_custom_visualization/master/transpose.js
 
 ## Dependencies (enter them in this order!)
 
