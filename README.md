@@ -3,6 +3,10 @@ Custom Visualization examples for the JOIN 2018 hands on lab. You can get here w
 
 The full custom visualization repository is located here: https://github.com/looker/custom_visualizations_v2
 
+
+## Use this Looker if you need one
+https://joinlab.looker.com
+
 ## Visualization link
 https://rawgit.com/llooker/join_custom_visualization/master/transpose.js
 
