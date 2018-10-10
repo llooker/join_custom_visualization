@@ -96,7 +96,7 @@
 
               // add data to the table
               var tbl = $("#transposed_table").tabulator({
-                  layout: options.fill_type,
+                  layout: config.fill_type,
                   columns: clmns,
                   data: rws,
                   movableColumns: true
