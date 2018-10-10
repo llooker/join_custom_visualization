@@ -36,7 +36,7 @@
             
               // print data to console for debugging:
               console.log("data",data);
-              console.log("config",config);
+              console.log("config",config.theme_color);
               console.log("queryResponse",queryResponse);
 
             
